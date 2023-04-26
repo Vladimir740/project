@@ -1,0 +1,14 @@
+# virtual environment
+venv/
+
+# compiled .pyc files
+__pycache__/
+
+# files created by IDE
+.idea/
+
+# log files
+*.log
+
+# backup files
+*.bak
